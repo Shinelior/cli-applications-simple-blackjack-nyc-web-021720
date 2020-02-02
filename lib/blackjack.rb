@@ -79,7 +79,7 @@ welcome
 card_total = initial_round
  hit?(card_total)
   # code runner here
-  
+  display_card_total
   until  card_total > 21
     
    
