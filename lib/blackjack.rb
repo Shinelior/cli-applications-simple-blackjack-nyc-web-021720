@@ -76,7 +76,7 @@ end
 
 def runner
 welcome
-initial_round
+   = initial_round
  hit?(card_total)
   # code runner here
   
