@@ -82,7 +82,7 @@ def runner
    
   
   hit?(card_total)
-   
+   display_card_total
     
    
      until card_total <= 21
