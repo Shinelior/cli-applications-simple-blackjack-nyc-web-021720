@@ -81,7 +81,7 @@ card_total = initial_round
   # code runner here
   
   until  card_total > 21
-    display_card_total
+    
    
 end
     
