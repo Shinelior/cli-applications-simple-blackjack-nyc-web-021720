@@ -86,6 +86,7 @@ def runner
     
    
      until display_card_total(card_total) <= 21
+     
      hit?(card_total)
    
     
