@@ -78,7 +78,7 @@ welcome
 initial_round
  hit?(card_total)
   # code runner here
- 
+ display_card_total
     
 end
     
