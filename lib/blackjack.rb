@@ -87,6 +87,7 @@ def runner
    
      while card_total <= 21
      card_total = initial_round
+     binding.pry
      hit?(card_total)
    display_card_total(card_total)
     
