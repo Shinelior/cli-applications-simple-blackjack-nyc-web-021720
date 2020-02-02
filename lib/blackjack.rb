@@ -81,7 +81,8 @@ card_total = initial_round
   # code runner here
   display_card_total
   until  card_total > 21
-    def hit?(card_total)
+     hit?(card_total)
+     
    
 end
     
