@@ -89,7 +89,7 @@ def runner
      card_total = initial_round
     
      hit?(card_total)
-     
+      binding.pry
    display_card_total(card_total)
     
   #if get_user_input == "s"
