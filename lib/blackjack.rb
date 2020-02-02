@@ -52,6 +52,7 @@ def hit?(card_total)
      
      card_total += new_card
   elsif user_input == "s"
+  
   return card_total
 else
    #prompt_user
