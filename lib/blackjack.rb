@@ -83,6 +83,7 @@ card_total = initial_round
   until  card_total > 21
      hit?(card_total)
      display_card_total
+     binding.pry
    end
    end_game(card_total)
 end
